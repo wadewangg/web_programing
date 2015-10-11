@@ -1,0 +1,28 @@
+#Education {
+    list-style-type: square;
+	margin-top: 5%;
+}
+img {
+	
+    
+    margin-left: 32%;
+}
+h3 {
+    text-shadow: 2px 2px 5px red;
+}
+#header{
+margin-right: 10%;
+    margin-left: 10%;
+	background-color:hsla(120,100%,75%,0.3);
+	}
+	h1{
+	margin-right: 22%;
+    margin-left: 22%;
+	}
+#borderimg { 
+    border: 10px solid transparent;
+    padding: 15px;
+    -webkit-border-image: url(border.png) 30 stretch; /* Safari 3.1-5 */
+    -o-border-image: url(border.png) 30 stretch; /* Opera 11-12.1 */
+    border-image: url(border.png) 30 stretch;
+}
